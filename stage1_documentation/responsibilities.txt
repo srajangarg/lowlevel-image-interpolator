@@ -1,7 +1,0 @@
-Division of work:
-
-Datapath will be implemented by Anuj Mittal and Shrey Rajesh.This includes implementing and testing all the black boxes i.e Pixel Manipulator, Interpolator and Update i,j block.
-
-Controller circuit will be handled by Srajan Garg and Rishabh Agarwal. They will also do the verification and testing for the program by generating testbench from actual image data(hex dump) and qualitative analysis of program (blurring effect).
-
-Preparation of test cases will be done by all the team members and the above tasks are also done in collaboration with other team members but the mentioned team members will mainly be responsible for above tasks.
