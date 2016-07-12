@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Specifics}{}% 2
+\BOOKMARK [1][-]{section.3}{Input \046 Output}{}% 3
+\BOOKMARK [1][-]{section.4}{Pixel Manipulator}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Inputs}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Functioning}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Outputs}{section.4}% 7
+\BOOKMARK [1][-]{section.5}{Interpolater}{}% 8
+\BOOKMARK [2][-]{subsection.5.1}{Inputs}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.2}{Outputs}{section.5}% 10
+\BOOKMARK [1][-]{section.6}{Updater \(i, j\)}{}% 11
+\BOOKMARK [2][-]{subsection.6.1}{Inputs}{section.6}% 12
+\BOOKMARK [2][-]{subsection.6.2}{Outputs}{section.6}% 13
+\BOOKMARK [1][-]{section.7}{Pseudo Code}{}% 14
+\BOOKMARK [1][-]{section.8}{State Diagram}{}% 15
+\BOOKMARK [1][-]{section.9}{Testing \046 Verification}{}% 16
+\BOOKMARK [1][-]{section.10}{Distribution of work}{}% 17
